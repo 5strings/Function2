@@ -34,7 +34,7 @@ int main(int argc, const char * argv[]) {
     //return 0;
 }
 
-int sum(int x, int y) { // function definition, Receaving values // Formal parameters
+int sum(int x, int y) { // function definition, Receiving values // Formal parameters
     int sum;
     sum = x+y;
     return sum; // return value
